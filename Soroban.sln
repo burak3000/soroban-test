@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soroban.Tests", "Soroban.Tests\Soroban.Tests.csproj", "{00C7D577-9781-44A9-9DE3-AB68B5EAF34E}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soroban.Tests", "Soroban.Tests\Soroban.Tests.csproj", "{00C7D577-9781-44A9-9DE3-AB68B5EAF34E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soroban.Core", "Soroban.Core\Soroban.Core.csproj", "{3260F741-900C-42D6-849F-855C26CD0AA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soroban.Core", "Soroban.Core\Soroban.Core.csproj", "{3260F741-900C-42D6-849F-855C26CD0AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soroban.Console", "Soroban.Console\Soroban.Console.csproj", "{97016ABE-63D2-4324-86A2-8E3E5F4AC5E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,15 @@ Global
 		{3260F741-900C-42D6-849F-855C26CD0AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3260F741-900C-42D6-849F-855C26CD0AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3260F741-900C-42D6-849F-855C26CD0AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97016ABE-63D2-4324-86A2-8E3E5F4AC5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97016ABE-63D2-4324-86A2-8E3E5F4AC5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97016ABE-63D2-4324-86A2-8E3E5F4AC5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97016ABE-63D2-4324-86A2-8E3E5F4AC5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26274175-E60B-433D-8303-FC1C7D6A18A4}
 	EndGlobalSection
 EndGlobal
