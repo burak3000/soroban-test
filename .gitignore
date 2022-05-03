@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+Soroban.Tests/bin/
+Soroban.Tests/obj/
+Soroban.Core/bin/
+Soroban.Core/obj/
+Soroban.sln.DotSettings.user

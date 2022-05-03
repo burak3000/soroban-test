@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soroban.Tests", "Soroban.Tests\Soroban.Tests.csproj", "{00C7D577-9781-44A9-9DE3-AB68B5EAF34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soroban.Core", "Soroban.Core\Soroban.Core.csproj", "{3260F741-900C-42D6-849F-855C26CD0AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C7D577-9781-44A9-9DE3-AB68B5EAF34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C7D577-9781-44A9-9DE3-AB68B5EAF34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C7D577-9781-44A9-9DE3-AB68B5EAF34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C7D577-9781-44A9-9DE3-AB68B5EAF34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3260F741-900C-42D6-849F-855C26CD0AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3260F741-900C-42D6-849F-855C26CD0AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3260F741-900C-42D6-849F-855C26CD0AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3260F741-900C-42D6-849F-855C26CD0AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
